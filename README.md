@@ -13,3 +13,5 @@ O público alvo do MGPU é qualquer cidadão com um *smartphone* que se preocupa
 ### Wireframes
 
 _Wireframes_ não são nada mais do que protótipos para a construção de telas de interação para aplicativos, páginas web, etc. A construção desses protótipos deve-se ao fato de permitirem testar a viabilidade técnica da ideia, esclarecer requisitos, realizar testes com os usuários, auxiliando os _designers_ a optarem pelas melhores alternativas.
+
+![1](EgenhariaDeUsabilidade-IME-USP/blob/master/imagens/wireframes/auto_nível/1.PNG)
